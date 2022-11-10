@@ -1,4 +1,4 @@
-package handle_error
+package my_error
 
 import (
 	"fmt"
